@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Team-Nankai%20Chinasoft-blueviolet" alt="Team Badge"/>
+  <img src="https://img.shields.io/badge/Model-DeepSeek-lightblue" alt="Model Badge"/>
+  <img src="https://img.shields.io/badge/LoRA-Supported-green" alt="LoRA Badge"/>
+  <img src="https://img.shields.io/github/license/xjtatnku/Naikai-WJYD-project?style=flat-square" alt="License Badge"/>
+  <img src="https://img.shields.io/github/last-commit/xjtatnku/Naikai-WJYD-project?color=yellow&style=flat-square" alt="Last Commit Badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=xjtatnku.Naikai-WJYD-project" alt="Visitor Count"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/xjtatnku/Naikai-WJYD-project?style=social" alt="Stars Badge"/>
+  <img src="https://img.shields.io/github/issues/xjtatnku/Naikai-WJYD-project" alt="Issues Badge"/>
+  <img src="https://img.shields.io/github/pulls/xjtatnku/Naikai-WJYD-project" alt="Pull Requests Badge"/>
+</p>
+
+
+
+
 # Naikai-WJYD-project
 **南开大学本科生创新科研计划—国家级大学生创新训练计划：“问津有道——基于天津市非物质文化遗产的数字人交互平台”**
 
@@ -66,13 +84,6 @@
 
 ---
 
-## 项目截图
-
-![项目截图](./屏幕截图2025-03-09 191103.png)
-
-![项目截图](./屏幕截图2025-03-09 191103.png)
-
----
 ## ⚙️ 技术栈 · Technology Stack
 
 | 类别    | 技术                          | 用途               |

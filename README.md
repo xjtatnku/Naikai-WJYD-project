@@ -1,17 +1,16 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Team-Nankai%20Chinasoft-blueviolet" alt="Team Badge"/>
-  <img src="https://img.shields.io/badge/Model-DeepSeek-lightblue" alt="Model Badge"/>
-  <img src="https://img.shields.io/badge/LoRA-Supported-green" alt="LoRA Badge"/>
-  <img src="https://img.shields.io/github/license/xjtatnku/Naikai-WJYD-project?style=flat-square" alt="License Badge"/>
-  <img src="https://img.shields.io/github/last-commit/xjtatnku/Naikai-WJYD-project?color=yellow&style=flat-square" alt="Last Commit Badge"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=xjtatnku.Naikai-WJYD-project" alt="Visitor Count"/>
+  <img src="https://img.shields.io/badge/Team-Nankai%20Chinasoft-blueviolet"/>
+  <img src="https://img.shields.io/badge/Model-DeepSeek-lightblue"/>
+  <img src="https://img.shields.io/badge/LoRA-Supported-brightgreen"/>
+  <img src="https://img.shields.io/github/license/xjtatnku/Naikai-WJYD-project"/>
+  <img src="https://img.shields.io/github/last-commit/xjtatnku/Naikai-WJYD-project?color=yellow"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=xjtatnku.Naikai-WJYD-project"/>
+
+  <img src="https://img.shields.io/github/stars/xjtatnku/Naikai-WJYD-project?style=social"/>
+  <img src="https://img.shields.io/github/issues/xjtatnku/Naikai-WJYD-project"/>
+  <img src="https://img.shields.io/github/issues-pr/xjtatnku/Naikai-WJYD-project"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/xjtatnku/Naikai-WJYD-project?style=social" alt="Stars Badge"/>
-  <img src="https://img.shields.io/github/issues/xjtatnku/Naikai-WJYD-project" alt="Issues Badge"/>
-  <img src="https://img.shields.io/github/pulls/xjtatnku/Naikai-WJYD-project" alt="Pull Requests Badge"/>
-</p>
 
 
 

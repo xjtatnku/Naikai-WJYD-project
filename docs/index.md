@@ -37,7 +37,7 @@
 > 🧑‍🏫 **指导教师**：冉启斌（文学院教授，副院长） 黄玮（南开大学文学院2023级博士研究生）
 ---
 
-## 📚 项目文档与资源
+## 📚 项目文档与资源 · Source
 
 - [项目源代码](https://github.com/xjtatnku/Naikai-WJYD-project)
 - [项目报告 (PDF)](https://share.weiyun.com/jaYO2jrt)

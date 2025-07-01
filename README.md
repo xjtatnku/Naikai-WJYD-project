@@ -115,34 +115,13 @@
 | **11 月 - 12 月**      | - 实现三大功能：数字人建模、数字换脸、非遗导览<br>- 展示数字人的个性化与文化互动能力<br>✅ 阶段目标：平台功能丰富，形成数字化成果                                                                              |
 | **2026 年 1 月 - 3 月** | - 春节推广测试：邀请亲友使用平台<br>- 视频制作与宣传（如B站）<br>- 联系文旅局，积极推广与申请专利<br>- 文学院撰写科研论文，计算机学院优化模型与发布正式软件版本<br>✅ 阶段目标：完成平台发布与商业落地                                     |
 
-gantt
-    title 项目进度总览（2025.4 - 2026.3）
-    dateFormat  YYYY-MM
-    section 前期准备
-    媒体资料搜集 & 格式化       :done,       a1, 2025-04, 2025-05
-    用户问卷 & 实地调研         :done,       a2, 2025-04, 2025-05
-    天津话学习与语料整理        :active,     a3, 2025-04, 2025-05
-    技术预研与模型准备          :active,     a4, 2025-04, 2025-05
+---
 
-    section 中期开发
-    数据库完善 & 录音采集        :            b1, 2025-05, 2025-06
-    小程序开发与数据库接入      :            b2, 2025-05, 2025-06
+## 📊 项目进度可视化
 
-    section 暑期核心阶段
-    智能平台开发（文字+语音交互） :           c1, 2025-06, 2025-08
-    资料整理 & 科研成果沉淀     :            c2, 2025-06, 2025-08
+项目的整体时间安排如下图所示：
 
-    section 后期深化
-    天津话识别合成 + 非遗大模型 :            d1, 2025-09, 2025-11
-    平台集成与期中答辩          :            d2, 2025-09, 2025-11
-
-    section 成果打磨
-    数字人建模 + 换脸 + 导览     :           e1, 2025-11, 2025-12
-
-    section 商业推广
-    春节推广 & 使用优化          :           f1, 2026-01, 2026-03
-    视频宣传 + 专利申请          :           f2, 2026-01, 2026-03
-    论文撰写 + 软件上线          :           f3, 2026-01, 2026-03
+<iframe src="https://mermaid.ink/svg/pako:eNp9U8FqwzAM_BXLn0E2YEKzkQVkKrcaNJiqESQU3bCmmr69e9AGkTxLPvNnM2ffz3gL2a1JG4cGyE-XQlNZFq1grWZTjo0mV9uRkx3dp9rqpoDVgdI33OMLFxlssw0oV_GQJzSwmqmrZym1DWQFAybTJvMYjR6aQBBhR5IzQozpJRDaEZU2uTmtJ6UXyKUNNGJL9LZjj41EWaomLUzNddFiEGaVaCEe-Yaz4-hmsz8TSN9MzZK3gZPqWyacQNmQ3qIE45oU-n_WqXtHCroAzRYgk4AoGipRAh-QTxCW1Vm_YzuvdjScmp-fX-L4yyGHv1FsPrQ" width="100%" height="500"></iframe>
 
 
 ---

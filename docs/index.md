@@ -40,7 +40,7 @@
 ## 📚 项目文档与资源
 
 - [项目源代码](https://github.com/xjtatnku/Naikai-WJYD-project)
-- [项目报告 (PDF)](file:///C:/Users/xjt26/Desktop/项目申请书（3.0）.pdf)
+- [项目报告 (PDF)](https://share.weiyun.com/jaYO2jrt)
 - [团队展示视频](https://www.bilibili.com/video/example)
 
 ---

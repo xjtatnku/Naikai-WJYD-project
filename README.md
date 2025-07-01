@@ -104,7 +104,7 @@
 | 前端    | UniApp + Vue3 + ECharts     | 微信小程序前端 UI       |
 
 ---
-## 📅 项目进度安排
+## 📅 项目进度安排 · Schedule
 
 | 时间周期                 | 任务内容                                                                                                                                                 |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -114,15 +114,6 @@
 | **9 月 - 11 月**       | - 聚焦项目亮点：天津话识别与合成、天津非遗大模型<br>- 嵌入平台实现真正的人机互动<br>- 文学院启动计算语言学论文撰写或学习数字人建模<br>- 准备期中答辩，平台进入可用状态<br>✅ 阶段目标：实现模型落地，完成功能集成                                |
 | **11 月 - 12 月**      | - 实现三大功能：数字人建模、数字换脸、非遗导览<br>- 展示数字人的个性化与文化互动能力<br>✅ 阶段目标：平台功能丰富，形成数字化成果                                                                              |
 | **2026 年 1 月 - 3 月** | - 春节推广测试：邀请亲友使用平台<br>- 视频制作与宣传（如B站）<br>- 联系文旅局，积极推广与申请专利<br>- 文学院撰写科研论文，计算机学院优化模型与发布正式软件版本<br>✅ 阶段目标：完成平台发布与商业落地                                     |
-
----
-
-## 📊 项目进度可视化
-
-项目的整体时间安排如下图所示：
-
-<iframe src="https://mermaid.ink/svg/pako:eNp9U8FqwzAM_BXLn0E2YEKzkQVkKrcaNJiqESQU3bCmmr69e9AGkTxLPvNnM2ffz3gL2a1JG4cGyE-XQlNZFq1grWZTjo0mV9uRkx3dp9rqpoDVgdI33OMLFxlssw0oV_GQJzSwmqmrZym1DWQFAybTJvMYjR6aQBBhR5IzQozpJRDaEZU2uTmtJ6UXyKUNNGJL9LZjj41EWaomLUzNddFiEGaVaCEe-Yaz4-hmsz8TSN9MzZK3gZPqWyacQNmQ3qIE45oU-n_WqXtHCroAzRYgk4AoGipRAh-QTxCW1Vm_YzuvdjScmp-fX-L4yyGHv1FsPrQ" width="100%" height="500"></iframe>
-
 
 ---
 

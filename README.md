@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Team-Nankai%20Chinasoft-blueviolet"/>
-  <img src="https://img.shields.io/badge/Model-DeepSeek-lightblue"/>
+  <img src="https://img.shields.io/badge/Team-Nankai%20WJYD-blueviolet"/>
+  <img src="https://img.shields.io/badge/Model-Qwen-lightblue"/>
   <img src="https://img.shields.io/badge/LoRA-Supported-brightgreen"/>
   <img src="https://img.shields.io/github/license/xjtatnku/Naikai-WJYD-project"/>
   <img src="https://img.shields.io/github/last-commit/xjtatnku/Naikai-WJYD-project?color=yellow"/>
